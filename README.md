@@ -166,19 +166,11 @@ def calc_map(gt, pred):   
 ## 3. Strategy
 
 ### Dataset overview
-![image](https://github.com/Daw-ny/2024_LG_Aimers/assets/76687996/c6a1a3c8-08af-4dc6-929d-f1c61c6e3534)
 
-### EDA
-![image](https://github.com/Daw-ny/2024_LG_Aimers/assets/76687996/5b85248b-269b-4df0-be33-85d329ebeed0)
-![image](https://github.com/Daw-ny/2024_LG_Aimers/assets/76687996/29d08d90-a9e8-494b-ac35-400d056ae1f3)
-![image](https://github.com/Daw-ny/2024_LG_Aimers/assets/76687996/e97abadd-c40a-4ba3-b434-31c506c45174)
-![image](https://github.com/Daw-ny/2024_LG_Aimers/assets/76687996/30121d6b-8827-4d97-81be-8650d4f604fb)
-![image](https://github.com/Daw-ny/2024_LG_Aimers/assets/76687996/3d459173-eef9-4ccb-91f2-691a6dd6b629)
-![image](https://github.com/Daw-ny/2024_LG_Aimers/assets/76687996/994e06d7-84c3-4271-b86e-442af6e6e641)
-![image](https://github.com/Daw-ny/2024_LG_Aimers/assets/76687996/4163ca34-8384-44f5-ba1a-fc35b78223b5)
-![image](https://github.com/Daw-ny/2024_LG_Aimers/assets/76687996/84657fd7-c340-4390-9744-ad85ff67affd)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (8)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/49c0cc28-6160-4021-b0cb-b727c765be31)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (9)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/435cb476-f7d7-4eb4-953b-5fe1182326f8)
 
-## 4. 4-Aspect Modeling
+## 4. 5-Aspect
 ![image](https://github.com/Daw-ny/2024_LG_Aimers/assets/76687996/95d6ba9e-7d3e-4306-b06c-ed928663baa0)
 ![image](https://github.com/Daw-ny/2024_LG_Aimers/assets/76687996/559c8436-fbea-4732-a9ab-9d3781882f17)
 ![image](https://github.com/Daw-ny/2024_LG_Aimers/assets/76687996/ecb6f5c2-89d0-47b0-a8eb-c84930570354)
@@ -194,7 +186,7 @@ def calc_map(gt, pred):   
 
 ## 5. Result
 
-### Leader Board - 6th
+### Leader Board - 2th
 
 ![image](https://github.com/Daw-ny/2024_LG_Aimers/assets/76687996/bf431440-4cd5-4caa-ae69-8721dc2cfaf2)
 ![image](https://github.com/Daw-ny/2024_LG_Aimers/assets/76687996/619017bc-240f-459f-8681-57fd2c3b73bc)
