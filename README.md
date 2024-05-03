@@ -184,14 +184,14 @@ def calc_map(gt, pred):   
 ![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (20)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/d1ba1533-07bd-4ca7-b7be-0b74a2539661)
 ![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (21)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/ce7b0645-07af-4afd-8bc1-efcba565bb9a)
 ![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (22)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/58e863c2-613d-4b05-9797-ee2369385a84)
-![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (23)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/97348b22-af71-4a78-b551-b97dd7d3b02f)
-![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (24)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/f918e55a-d5af-4be2-8e97-712d1496891d)
 
 
 ## 5. Result
 
 ### Leader Board - 2th
 
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (23)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/97348b22-af71-4a78-b551-b97dd7d3b02f)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (24)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/f918e55a-d5af-4be2-8e97-712d1496891d)
 ![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (25)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/6dac382b-8ebd-493e-8049-3bec542e5332)
 ![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (26)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/5ff1ba0d-e2cb-4615-8727-7d8a2cf68bb4)
 ![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (27)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/18365fc1-4499-471a-843b-e764a7fea2d1)
