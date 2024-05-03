@@ -7,19 +7,21 @@
 
 <table>
 <tr>
-<td>  <div  align=center> 👑 </div>  </td>
 <td>  <div  align=center> 1 </div>  </td>
 <td>  <div  align=center> 2 </div>  </td>
 <td>  <div  align=center> 3 </div>  </td>
 <td>  <div  align=center> 4 </div>  </td>
 <td>  <div  align=center> 5 </div>  </td>
+<td>  <div  align=center> 6 </div>  </td>
+<td>  <div  align=center> 6 </div>  </td>
 </tr>
 <tr>
 <td>  <div  align=center>  <b>가상민</b>  </div>  </td>
-<td>  <div  align=center>  <b>신동혁</b>  </div>  </td>
-<td>  <div  align=center>  <b>김도연</b>  </div>  </td>
 <td>  <div  align=center>  <b>김다운</b>  </div>  </td>
+<td>  <div  align=center>  <b>김도연</b>  </div>  </td>
 <td>  <div  align=center>  <b>서상혁</b>  </div>  </td>
+<td>  <div  align=center>  <b>신동혁</b>  </div>  </td>
+<td>  <div  align=center>  <b>이소영</b>  </div>  </td>
 <td>  <div  align=center>  <b>장호준</b>  </div>  </td>
 </tr>
 <tr>
