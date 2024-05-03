@@ -165,23 +165,25 @@ def calc_map(gt, pred):   
 
 ## 3. Strategy
 
-### Dataset overview
-
 ![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (8)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/49c0cc28-6160-4021-b0cb-b727c765be31)
 ![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (9)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/435cb476-f7d7-4eb4-953b-5fe1182326f8)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (10)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/f0efa3f3-6bb9-4c81-a907-cb0243a224df)
 
 ## 4. 5-Aspect
-![image](https://github.com/Daw-ny/2024_LG_Aimers/assets/76687996/95d6ba9e-7d3e-4306-b06c-ed928663baa0)
-![image](https://github.com/Daw-ny/2024_LG_Aimers/assets/76687996/559c8436-fbea-4732-a9ab-9d3781882f17)
-![image](https://github.com/Daw-ny/2024_LG_Aimers/assets/76687996/ecb6f5c2-89d0-47b0-a8eb-c84930570354)
-![image](https://github.com/Daw-ny/2024_LG_Aimers/assets/76687996/2e1888d6-b257-4aa8-a8ea-2561569cd0cb)
-![image](https://github.com/Daw-ny/2024_LG_Aimers/assets/76687996/b547e854-fcd2-4802-889e-4b441c16ea7e)
-![image](https://github.com/Daw-ny/2024_LG_Aimers/assets/76687996/8070f104-efd7-4266-b9f0-74d475ed69e7)
-![image](https://github.com/Daw-ny/2024_LG_Aimers/assets/76687996/2e875f42-5856-48fd-802d-5db9c82ae755)
-![image](https://github.com/Daw-ny/2024_LG_Aimers/assets/76687996/77cda53a-3ab2-426a-889d-66325b9a63ce)
-![image](https://github.com/Daw-ny/2024_LG_Aimers/assets/76687996/2f15018c-7d74-4871-9eea-262dd1e5d074)
-![image](https://github.com/Daw-ny/2024_LG_Aimers/assets/76687996/9890e050-7791-423d-905e-1d9a50c38b09)
-![image](https://github.com/Daw-ny/2024_LG_Aimers/assets/76687996/0e597060-11be-4d43-8461-99a747d81e03)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (11)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/7c1f375d-6491-489e-9219-0271bdb42d8b)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (12)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/54d62234-a30c-418a-9665-ad923615736a)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (13)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/4fa86637-2f71-43ee-9595-87badbfd7c9b)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (14)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/9e79c943-e423-40c1-ae43-ae566f30eb7d)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (15)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/0c4fc87b-4b5c-4ab3-9221-cf1dab243902)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (16)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/29a2582d-a85b-46ac-9eca-38b9764b61b2)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (17)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/5c9a7add-ed46-4c61-9676-b2a31b255781)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (18)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/4faadf33-2573-4d56-88fe-d379b1147a69)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (19)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/25d36ee6-da61-4b15-b5a7-9c9f742b675b)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (20)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/d1ba1533-07bd-4ca7-b7be-0b74a2539661)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (21)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/ce7b0645-07af-4afd-8bc1-efcba565bb9a)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (22)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/58e863c2-613d-4b05-9797-ee2369385a84)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (23)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/97348b22-af71-4a78-b551-b97dd7d3b02f)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (24)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/f918e55a-d5af-4be2-8e97-712d1496891d)
 
 
 ## 5. Result
