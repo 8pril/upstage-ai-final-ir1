@@ -204,7 +204,7 @@ def calc_map(gt, pred):   
 
 ### Meeting Log
 
-- 전체적인 내용은 [Notion](https://www.notion.so/1-9ca0f519bc5143d5a541cc547ed278b4), [Notion2](https://www.notion.so/Dialogue-Summarization-43fc1c2d025b4cd09d4babbe8ab7a1c9?pvs=4)에서 확인하실 수 있습니다.
+- 전체적인 내용은 [진행 Notion](https://www.notion.so/Scientific-Knowledge-Question-Answering-cd175584a0e7473b8c205c34ac673683?pvs=4), [간트차트](https://sixth-drum-9ac.notion.site/Final-d590cb0c11044d83a8d2a52459747117?pvs=4)에서 확인하실 수 있습니다.
 - 4월 22일 (월) 10:00 ~ 5월 2일 (목) 19:00 : Online Meeting
 
 ### Reference
