@@ -1,8 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/nDCOQnZo)
 
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/3DbKuh4a)
+# 효율적인 RAG 구축 공략 : 과학지식 편(The Goal of Building an Efficient RAG: Scientific Knowledge)
 
-# 여행하는 히치하이커를 위한 요약서 : 일상대화 편
 
 ## Team
 
