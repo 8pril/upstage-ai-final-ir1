@@ -169,7 +169,9 @@ def calc_map(gt, pred):   
 ![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (9)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/435cb476-f7d7-4eb4-953b-5fe1182326f8)
 ![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (10)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/f0efa3f3-6bb9-4c81-a907-cb0243a224df)
 
+
 ## 4. 5-Aspect
+
 ![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (11)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/7c1f375d-6491-489e-9219-0271bdb42d8b)
 ![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (12)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/54d62234-a30c-418a-9665-ad923615736a)
 ![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (13)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/4fa86637-2f71-43ee-9595-87badbfd7c9b)
@@ -190,38 +192,20 @@ def calc_map(gt, pred):   
 
 ### Leader Board - 2th
 
-![image](https://github.com/Daw-ny/2024_LG_Aimers/assets/76687996/bf431440-4cd5-4caa-ae69-8721dc2cfaf2)
-![image](https://github.com/Daw-ny/2024_LG_Aimers/assets/76687996/619017bc-240f-459f-8681-57fd2c3b73bc)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (25)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/6dac382b-8ebd-493e-8049-3bec542e5332)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (26)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/5ff1ba0d-e2cb-4615-8727-7d8a2cf68bb4)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (27)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/18365fc1-4499-471a-843b-e764a7fea2d1)
+
 
 ### Presentation
-- [Google Project](https://docs.google.com/presentation/d/15cafHlTN6UNRAf8-hrg2hwa0m6lNMWFO/edit?usp=sharing&ouid=107968498421720497028&rtpof=true&sd=true)
+- [Google Project](https://docs.google.com/presentation/d/1mjfruR3dbH1T0Uw-ifn6qpIbkh_5tFiU/edit?usp=sharing&ouid=112740872612879476638&rtpof=true&sd=true)
 
 ## etc
 
 ### Meeting Log
 
 - 전체적인 내용은 [Notion](https://www.notion.so/1-9ca0f519bc5143d5a541cc547ed278b4), [Notion2](https://www.notion.so/Dialogue-Summarization-43fc1c2d025b4cd09d4babbe8ab7a1c9?pvs=4)에서 확인하실 수 있습니다.
-- Mar 8 ~ Mar 20 : Online Meeting
+- 4월 22일 (월) 10:00 ~ 5월 2일 (목) 19:00 : Online Meeting
 
 ### Reference
 
-1. Beam Search 등 생성전략 정리된 것
-    - 생성전략 참고 블로그 : https://littlefoxdiary.tistory.com/46
-    - softmax 시 사이즈 제한하는 방법 : https://wikidocs.net/72820
-2. T5 에서 데이터 입력되는 순서, 배치사이즈가 자꾸 사이즈 에러가 난다. BART 와는 뭐가 다른지?
-    - https://discuss.huggingface.co/t/errors-when-fine-tuning-t5/3527
-    - 아직 해결 못했어요. 다음에 할 때 이것도 고려해보아요
-
-3. 형태소 분석기 U tube
-    - https://youtube.com/watch?v=Ks3iUZlAqvA&si=fOxaYEeKGJNhYizP
-
-4. **Hugging Face Documentation**  
-    - https://huggingface.co/docs
-
-5. Mecab
-    - https://openuiz.blogspot.com/2018/12/mecab-ko-dic.html
-    - https://sswwd.tistory.com/65
-    - https://luminitworld.tistory.com/104
-
-6. Kiwi
-    - https://github.com/bab2min/Kiwi
